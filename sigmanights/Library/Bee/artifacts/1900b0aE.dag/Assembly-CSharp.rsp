@@ -411,6 +411,8 @@
 "Assets/Alteruna/Scripts/Examples/ExampleRpcProcedureParameters.cs"
 "Assets/Alteruna/Scripts/Examples/ExampleRpcSerializable.cs"
 "Assets/Alteruna/Scripts/Examples/ExampleSynchronizable.cs"
+"Assets/cams.cs"
+"Assets/is_seen.cs"
 "Assets/movement.cs"
 -langversion:9.0
 
