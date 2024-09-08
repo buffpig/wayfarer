@@ -14,7 +14,7 @@ namespace Alteruna
 		[SerializeField] private GameObject ContentContainer;
 		[SerializeField] private Button StartButton;
 		[SerializeField] private Button LeaveButton;
-
+		public GameObject data;
 		public bool ShowUserCount = false;
 
 		// manual refresh can be done by calling Multiplayer.RefreshRoomList();

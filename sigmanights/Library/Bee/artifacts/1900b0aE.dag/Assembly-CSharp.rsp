@@ -413,6 +413,7 @@
 "Assets/Alteruna/Scripts/Examples/ExampleRpcSerializable.cs"
 "Assets/Alteruna/Scripts/Examples/ExampleSynchronizable.cs"
 "Assets/cams.cs"
+"Assets/data.cs"
 "Assets/is_seen.cs"
 "Assets/movement.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
